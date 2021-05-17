@@ -1,6 +1,8 @@
 package com.javabasic.test;
 
 public class Test {
+
+    //如何循环内循环。。。。 设置标志
     public static void main(String[] args) {
         ok:
         for (int i = 0; i < 20; i++) {
