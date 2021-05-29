@@ -1,4 +1,4 @@
-package com.javabasic.com.javabasic.final_s;
+package com.javabasic.final_s;
 
 public class FinalVar {
     final static int a = 0;     //在声明的时候就需要赋值，或者静态代码块父子

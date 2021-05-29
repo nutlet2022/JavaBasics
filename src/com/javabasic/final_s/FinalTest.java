@@ -1,4 +1,4 @@
-package com.javabasic.com.javabasic.final_s;
+package com.javabasic.final_s;
 
 public class FinalTest {
     public static void main(String[] args) {
